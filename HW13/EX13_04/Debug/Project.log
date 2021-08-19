@@ -1,0 +1,21 @@
+﻿Build started 12/11/2012 4:03:08 PM.
+     1>Project "P:\gconlon13\CS278\HW13\EX13_04\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EX13_04.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\mellis\AppData\Local\Temp\10b1722df8ff411d91e3b8cb1d929fef.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\main.obj" /Fl"assembler_listing.lst" /I "N:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"P:\gconlon13\CS278\HW13\EX13_04\Debug\EX13_04.exe" /NOLOGO /LIBPATH:N:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EX13_04.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"P:\gconlon13\CS278\HW13\EX13_04\Debug\EX13_04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"P:\gconlon13\CS278\HW13\EX13_04\Debug\EX13_04.lib" /MACHINE:X86 Debug\main.obj
+         Project.vcxproj -> P:\gconlon13\CS278\HW13\EX13_04\Debug\EX13_04.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"P:\gconlon13\CS278\HW13\EX13_04\Debug\EX13_04.exe;#1" /manifest Debug\EX13_04.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EX13_04.unsuccessfulbuild".
+         Touching "Debug\EX13_04.lastbuildstate".
+     1>Done Building Project "P:\gconlon13\CS278\HW13\EX13_04\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.12

@@ -1,0 +1,17 @@
+﻿Build started 12/11/2012 4:02:07 PM.
+     1>Project "P:\gconlon13\CS278\HW13\EX13_03\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EX13_03.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Link:
+         All outputs are up-to-date.
+         Project.vcxproj -> P:\gconlon13\CS278\HW13\EX13_03\Debug\EX13_03.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\EX13_03.unsuccessfulbuild".
+         Touching "Debug\EX13_03.lastbuildstate".
+     1>Done Building Project "P:\gconlon13\CS278\HW13\EX13_03\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

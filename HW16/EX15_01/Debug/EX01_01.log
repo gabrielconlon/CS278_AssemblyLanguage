@@ -1,0 +1,19 @@
+﻿Build started 12/4/2012 10:09:26 AM.
+     1>Project "P:\gconlon13\CS278\HW16\EX15_01\EX01_01.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EX15_01.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"P:\gconlon13\CS278\HW16\EX15_01\Debug\EX15_01.exe" /NOLOGO /LIBPATH:\\cs1\CS_ClassData\278\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EX15_01.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"P:\gconlon13\CS278\HW16\EX15_01\Debug\EX15_01.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"P:\gconlon13\CS278\HW16\EX15_01\Debug\EX15_01.lib" /MACHINE:X86 Debug\WindowedAssembler.obj
+         EX01_01.vcxproj -> P:\gconlon13\CS278\HW16\EX15_01\Debug\EX15_01.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"P:\gconlon13\CS278\HW16\EX15_01\Debug\EX15_01.exe;#1" /manifest Debug\EX15_01.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EX15_01.unsuccessfulbuild".
+         Touching "Debug\EX15_01.lastbuildstate".
+     1>Done Building Project "P:\gconlon13\CS278\HW16\EX15_01\EX01_01.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01

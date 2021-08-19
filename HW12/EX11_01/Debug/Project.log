@@ -1,0 +1,18 @@
+﻿Build started 11/5/2012 8:09:41 PM.
+     1>Project "\\cs1\CS_Students\gconlon13\CS278\HW12\EX11_01\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\EX11_01.unsuccessfulbuild".
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\gconlon13\AppData\Local\Temp\tmp729eefb71b7e4963a8736b47b1e89e62.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\main.obj" /Fl"assembler_listing.lst" /I "N:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+         '\\cs1\CS_Students\gconlon13\CS278\HW12\EX11_01'
+         CMD.EXE was started with the above path as the current directory.
+         UNC paths are not supported.  Defaulting to Windows directory.
+     1>MASM : fatal error A1000: cannot open file : main.asm
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\BuildCustomizations\masm.targets(49,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\main.obj" /Fl"assembler_listing.lst" /I "N:\Irvine" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
+     1>Done Building Project "\\cs1\CS_Students\gconlon13\CS278\HW12\EX11_01\Project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.17

@@ -1,0 +1,22 @@
+﻿Build started 11/5/2012 8:41:43 PM.
+     1>Project "L:\gconlon13\CS278\HW13\EX13_02\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EX13_02.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\gconlon13\AppData\Local\Temp\tmp80d8099d8b2140c588c31ef5f8979639.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\main.obj" /Fl"assembler_listing.lst" /I "N:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\gconlon13\CS278\HW13\EX13_02\Debug\EX13_02.exe" /NOLOGO /LIBPATH:N:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EX13_02.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"L:\gconlon13\CS278\HW13\EX13_02\Debug\EX13_02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"L:\gconlon13\CS278\HW13\EX13_02\Debug\EX13_02.lib" /MACHINE:X86 Debug\main.obj
+         LINK : L:\gconlon13\CS278\HW13\EX13_02\Debug\EX13_02.exe not found or not built by the last incremental link; performing full link
+         Project.vcxproj -> L:\gconlon13\CS278\HW13\EX13_02\Debug\EX13_02.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"L:\gconlon13\CS278\HW13\EX13_02\Debug\EX13_02.exe;#1" /manifest Debug\EX13_02.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EX13_02.unsuccessfulbuild".
+         Touching "Debug\EX13_02.lastbuildstate".
+     1>Done Building Project "L:\gconlon13\CS278\HW13\EX13_02\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.55

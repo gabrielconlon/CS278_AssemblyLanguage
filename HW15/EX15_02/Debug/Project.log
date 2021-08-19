@@ -1,0 +1,15 @@
+﻿Build started 12/13/2012 4:41:06 PM.
+     1>Project "P:\gconlon13\CS278\HW15\EX15_02\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\EX15_02.unsuccessfulbuild".
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\mellis\AppData\Local\Temp\2eed40426fc84b82bd1532d4ee8a8623.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\main.obj" /Fl"assembler_listing.lst" /I "N:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(69): error A2095: constant or relocatable label expected
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\BuildCustomizations\masm.targets(49,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\main.obj" /Fl"assembler_listing.lst" /I "N:\Irvine" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
+     1>Done Building Project "P:\gconlon13\CS278\HW15\EX15_02\Project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.25

@@ -1,0 +1,20 @@
+﻿Build started 10/9/2012 3:32:51 PM.
+     1>Project "Q:\gconlon13\CS278\EX05_B\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EX05_B.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Q:\gconlon13\CS278\EX05_B\Debug\EX05_B.exe" /NOLOGO /LIBPATH:N:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EX05_B.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Q:\gconlon13\CS278\EX05_B\Debug\EX05_B.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Q:\gconlon13\CS278\EX05_B\Debug\EX05_B.lib" /MACHINE:X86 Debug\test_mov.obj
+         LINK : Q:\gconlon13\CS278\EX05_B\Debug\EX05_B.exe not found or not built by the last incremental link; performing full link
+         Project.vcxproj -> Q:\gconlon13\CS278\EX05_B\Debug\EX05_B.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Q:\gconlon13\CS278\EX05_B\Debug\EX05_B.exe;#1" /manifest Debug\EX05_B.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EX05_B.unsuccessfulbuild".
+         Touching "Debug\EX05_B.lastbuildstate".
+     1>Done Building Project "Q:\gconlon13\CS278\EX05_B\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
